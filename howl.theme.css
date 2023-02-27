@@ -33,8 +33,8 @@
   --background-invert: 0%;
   --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://images.alphacoders.com/963/963423.png');
-  --user-popout-position: center;
+  --user-popout-image: url('https://images4.alphacoders.com/123/123064.jpg');
+  --user-popout-position: center left;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
@@ -44,8 +44,8 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://images8.alphacoders.com/992/992182.png');
-  --user-modal-position: center;
+  --user-modal-image: url('https://images4.alphacoders.com/123/123064.jpg');
+  --user-modal-position: center right;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
   --user-modal-attachment: fixed;
