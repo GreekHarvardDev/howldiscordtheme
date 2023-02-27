@@ -15,8 +15,8 @@
 @import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
 
 :root {
-  --main-color: #009688;
-  --hover-color: #F44336;
+  --main-color: #4CAF50;
+  --hover-color: #009688;
   --success-color: #00FF8B;
   --danger-color: #982929;
   --url-color: var(--main-color);
